@@ -27,3 +27,5 @@ resource "aws_security_group" "ssh" { #Creating security group
     Name = "allow_ssh"
   }
 }
+
+#Hello GitHub
