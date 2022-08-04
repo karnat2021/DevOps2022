@@ -27,16 +27,3 @@ resource "aws_security_group" "ssh" { #Creating security group
     Name = "allow_ssh"
   }
 }
-
-#Define the variables
-variable "ami_id" {
-
-}
-
-variable "instance_type" {
-
-}
-
-variable "vpc_id" {
-
-}
