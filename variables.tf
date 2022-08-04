@@ -1,12 +1,12 @@
 #Define the variables
 variable "ami_id" {
-    default = ""
+  default = ""
 }
 
 variable "instance_type" {
-    default = ""
+  default = ""
 }
 
 variable "vpc_id" {
-    default = ""
+  default = ""
 }
